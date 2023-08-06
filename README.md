@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Ikshit Dhiman</h1>
+
 <div align="center"> <img src="https://raw.githubusercontent.com/dhiman-64/dhiman-64/main/image.png"> </div>
 <h3 align="center">Hi, I am Ikshit Dhiman, a passionate Learner and currently pursuing my undergraduate degree in Computer science at Chitkara University. I am in Pre-Final year of Engineering. Loves to learn new technologies and working with them. Currently focused on CP and DSA.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
